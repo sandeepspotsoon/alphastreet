@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.pontamedia.com	TRUE	/	FALSE	1999999999	PHPSESSID	nb7ah9h0fop25n3qbnab6m30h3
+

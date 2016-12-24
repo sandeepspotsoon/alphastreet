@@ -1,0 +1,19 @@
+HTTrack3.48-22+htsswf+htsjava launched on Fri, 23 Dec 2016 10:31:47 at http://www.pontamedia.com/en/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.pontamedia.com/en/ -O1 "D:\Templates\pontamedia.com_en" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:32:24	Error: 	"Not Found" (404) at link www.pontamedia.com/en/favicon.png (from www.pontamedia.com/en/)
+10:34:04	Warning: 	File not parsed, looks like binary: www.pontamedia.com/en/fonts/glyphicons-halflings-regular.woff2
+10:34:04	Warning: 	File not parsed, looks like binary: www.pontamedia.com/en/fonts/glyphicons-halflings-regular.ttf
+10:34:04	Warning: 	Retry after error -4 (Incorrect length (72468 Bytes, 951257 expected)) at link www.pontamedia.com/en/assets/city.svg (from www.pontamedia.com/en/css/styles.css)
+10:35:03	Warning: 	Retry after error -4 (Incorrect length (393672 Bytes, 784193 expected)) at link www.pontamedia.com/en/assets/brands/sprites/sprite.png (from www.pontamedia.com/en/assets/brands/sprites/sprite.css)
+10:37:42	Warning: 	Retry after error -4 (Incorrect length (587960 Bytes, 951257 expected)) at link www.pontamedia.com/en/assets/city.svg (from www.pontamedia.com/en/css/styles.css)
+10:37:42	Warning: 	Retry after error -2 (Receive Time Out) at link www.pontamedia.com/en/assets/brands/sprites/sprite.png (from www.pontamedia.com/en/assets/brands/sprites/sprite.css)
+10:39:47	Error: 	"Receive Time Out" (-2) after 2 retries at link www.pontamedia.com/en/assets/city.svg (from www.pontamedia.com/en/css/styles.css)
+
+HTTrack Website Copier/3.48-22 mirror complete in 8 minutes 0 seconds : 139 links scanned, 132 files written (7153197 bytes overall) [7271880 bytes received at 15149 bytes/sec], 1051458 bytes transferred using HTTP compression in 21 files, ratio 23%, 4.6 requests per connection
+(2 errors, 6 warnings, 0 messages)

@@ -1,0 +1,2142 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-15a20commx {
+  background-image: url(sprite.png);
+  background-position: -228px -550px;
+  width: 76px;
+  height: 39px;
+}
+.icon-15a20commx2 {
+  background-image: url(sprite.png);
+  background-position: 0px -550px;
+  width: 76px;
+  height: 39px;
+}
+.icon-20thcenturyfox {
+  background-image: url(sprite.png);
+  background-position: -228px -76px;
+  width: 76px;
+  height: 76px;
+}
+.icon-Bimbo {
+  background-image: url(sprite.png);
+  background-position: -532px -625px;
+  width: 76px;
+  height: 30px;
+}
+.icon-ELBOCON {
+  background-image: url(sprite.png);
+  background-position: -742px -147px;
+  width: 76px;
+  height: 21px;
+}
+.icon-Forward {
+  background-image: url(sprite.png);
+  background-position: -532px -658px;
+  width: 76px;
+  height: 24px;
+}
+.icon-Imperial {
+  background-image: url(sprite.png);
+  background-position: -76px -442px;
+  width: 76px;
+  height: 57px;
+}
+.icon-LaMananaNeuquen {
+  background-image: url(sprite.png);
+  background-position: -742px -269px;
+  width: 76px;
+  height: 20px;
+}
+.icon-Lan {
+  background-image: url(sprite.png);
+  background-position: -666px -423px;
+  width: 76px;
+  height: 27px;
+}
+.icon-Laseleccion {
+  background-image: url(sprite.png);
+  background-position: -742px -573px;
+  width: 76px;
+  height: 18px;
+}
+.icon-LosAndes {
+  background-image: url(sprite.png);
+  background-position: -456px -745px;
+  width: 76px;
+  height: 13px;
+}
+.icon-Primiciasya {
+  background-image: url(sprite.png);
+  background-position: -532px -729px;
+  width: 76px;
+  height: 15px;
+}
+.icon-Ribeiro {
+  background-image: url(sprite.png);
+  background-position: -666px -117px;
+  width: 76px;
+  height: 29px;
+}
+.icon-Turner {
+  background-image: url(sprite.png);
+  background-position: -742px -537px;
+  width: 76px;
+  height: 18px;
+}
+.icon-administradores {
+  background-image: url(sprite.png);
+  background-position: -304px -707px;
+  width: 76px;
+  height: 22px;
+}
+.icon-agavis {
+  background-image: url(sprite.png);
+  background-position: -76px -228px;
+  width: 76px;
+  height: 76px;
+}
+.icon-apertura {
+  background-image: url(sprite.png);
+  background-position: -76px -729px;
+  width: 76px;
+  height: 16px;
+}
+.icon-arabela {
+  background-image: url(sprite.png);
+  background-position: -380px -500px;
+  width: 76px;
+  height: 46px;
+}
+.icon-arema {
+  background-image: url(sprite.png);
+  background-position: -514px -369px;
+  width: 76px;
+  height: 51px;
+}
+.icon-argim {
+  background-image: url(sprite.png);
+  background-position: -76px -683px;
+  width: 76px;
+  height: 24px;
+}
+.icon-atrevida {
+  background-image: url(sprite.png);
+  background-position: -456px -658px;
+  width: 76px;
+  height: 24px;
+}
+.icon-atribuna {
+  background-image: url(sprite.png);
+  background-position: -532px -745px;
+  width: 76px;
+  height: 12px;
+}
+.icon-avantrip {
+  background-image: url(sprite.png);
+  background-position: 0px 0px;
+  width: 76px;
+  height: 76px;
+}
+.icon-axeso5 {
+  background-image: url(sprite.png);
+  background-position: -590px -263px;
+  width: 76px;
+  height: 42px;
+}
+.icon-baixaki {
+  background-image: url(sprite.png);
+  background-position: -380px -745px;
+  width: 76px;
+  height: 13px;
+}
+.icon-bancohipotecario {
+  background-image: url(sprite.png);
+  background-position: -666px -59px;
+  width: 76px;
+  height: 29px;
+}
+.icon-basso-brovelli {
+  background-image: url(sprite.png);
+  background-position: -380px 0px;
+  width: 76px;
+  height: 67px;
+}
+.icon-bbva {
+  background-image: url(sprite.png);
+  background-position: -152px -658px;
+  width: 76px;
+  height: 24px;
+}
+.icon-betazeta {
+  background-image: url(sprite.png);
+  background-position: -742px -168px;
+  width: 76px;
+  height: 21px;
+}
+.icon-blinker {
+  background-image: url(sprite.png);
+  background-position: -228px -625px;
+  width: 76px;
+  height: 31px;
+}
+.icon-bolavip {
+  background-image: url(sprite.png);
+  background-position: -742px -42px;
+  width: 76px;
+  height: 21px;
+}
+.icon-brando {
+  background-image: url(sprite.png);
+  background-position: -456px -729px;
+  width: 76px;
+  height: 15px;
+}
+.icon-burgerking {
+  background-image: url(sprite.png);
+  background-position: -228px -152px;
+  width: 76px;
+  height: 76px;
+}
+.icon-canon {
+  background-image: url(sprite.png);
+  background-position: -304px -729px;
+  width: 76px;
+  height: 16px;
+}
+.icon-capital {
+  background-image: url(sprite.png);
+  background-position: -456px -550px;
+  width: 76px;
+  height: 37px;
+}
+.icon-carat {
+  background-image: url(sprite.png);
+  background-position: -228px -589px;
+  width: 76px;
+  height: 35px;
+}
+.icon-cetrogar {
+  background-image: url(sprite.png);
+  background-position: -228px -729px;
+  width: 76px;
+  height: 16px;
+}
+.icon-chevrolet {
+  background-image: url(sprite.png);
+  background-position: -590px -134px;
+  width: 76px;
+  height: 43px;
+}
+.icon-chilangocom {
+  background-image: url(sprite.png);
+  background-position: -228px -500px;
+  width: 76px;
+  height: 47px;
+}
+.icon-chilis {
+  background-image: url(sprite.png);
+  background-position: -514px -162px;
+  width: 76px;
+  height: 53px;
+}
+.icon-cinemark {
+  background-image: url(sprite.png);
+  background-position: -152px -442px;
+  width: 76px;
+  height: 55px;
+}
+.icon-cinepremiere {
+  background-image: url(sprite.png);
+  background-position: -304px -296px;
+  width: 76px;
+  height: 8px;
+}
+.icon-claro {
+  background-image: url(sprite.png);
+  background-position: -152px 0px;
+  width: 76px;
+  height: 76px;
+}
+.icon-clickjogos {
+  background-image: url(sprite.png);
+  background-position: -152px -500px;
+  width: 76px;
+  height: 48px;
+}
+.icon-clubdecorredores {
+  background-image: url(sprite.png);
+  background-position: -514px -215px;
+  width: 76px;
+  height: 52px;
+}
+.icon-cmi {
+  background-image: url(sprite.png);
+  background-position: -742px -84px;
+  width: 76px;
+  height: 21px;
+}
+.icon-cmtv {
+  background-image: url(sprite.png);
+  background-position: -76px -500px;
+  width: 76px;
+  height: 48px;
+}
+.icon-cnnexpansion {
+  background-image: url(sprite.png);
+  background-position: -304px -625px;
+  width: 76px;
+  height: 31px;
+}
+.icon-cocacola {
+  background-image: url(sprite.png);
+  background-position: -76px -658px;
+  width: 76px;
+  height: 25px;
+}
+.icon-colgate {
+  background-image: url(sprite.png);
+  background-position: -152px -707px;
+  width: 76px;
+  height: 22px;
+}
+.icon-compreingresos {
+  background-image: url(sprite.png);
+  background-position: -742px -407px;
+  width: 76px;
+  height: 19px;
+}
+.icon-contabeis {
+  background-image: url(sprite.png);
+  background-position: -666px -315px;
+  width: 76px;
+  height: 27px;
+}
+.icon-copesa {
+  background-image: url(sprite.png);
+  background-position: -514px -267px;
+  width: 76px;
+  height: 51px;
+}
+.icon-cordobavende {
+  background-image: url(sprite.png);
+  background-position: -380px -380px;
+  width: 76px;
+  height: 58px;
+}
+.icon-corpo {
+  background-image: url(sprite.png);
+  background-position: -590px -505px;
+  width: 76px;
+  height: 40px;
+}
+.icon-correoperu {
+  background-image: url(sprite.png);
+  background-position: -742px -662px;
+  width: 76px;
+  height: 17px;
+}
+.icon-corsa {
+  background-image: url(sprite.png);
+  background-position: -742px -501px;
+  width: 76px;
+  height: 18px;
+}
+.icon-cronica {
+  background-image: url(sprite.png);
+  background-position: -608px -745px;
+  width: 76px;
+  height: 12px;
+}
+.icon-deperu {
+  background-image: url(sprite.png);
+  background-position: -228px -683px;
+  width: 76px;
+  height: 23px;
+}
+.icon-despegar {
+  background-image: url(sprite.png);
+  background-position: -380px -658px;
+  width: 76px;
+  height: 24px;
+}
+.icon-diariouno {
+  background-image: url(sprite.png);
+  background-position: -590px 0px;
+  width: 76px;
+  height: 45px;
+}
+.icon-diarioveloz {
+  background-image: url(sprite.png);
+  background-position: -152px -760px;
+  width: 76px;
+  height: 9px;
+}
+.icon-dietaja {
+  background-image: url(sprite.png);
+  background-position: -742px -426px;
+  width: 76px;
+  height: 19px;
+}
+.icon-directv {
+  background-image: url(sprite.png);
+  background-position: 0px -442px;
+  width: 76px;
+  height: 58px;
+}
+.icon-disney {
+  background-image: url(sprite.png);
+  background-position: -152px -625px;
+  width: 76px;
+  height: 32px;
+}
+.icon-dominospizza {
+  background-image: url(sprite.png);
+  background-position: -228px -228px;
+  width: 76px;
+  height: 76px;
+}
+.icon-editatlantida {
+  background-image: url(sprite.png);
+  background-position: -152px -729px;
+  width: 76px;
+  height: 16px;
+}
+.icon-elcomercio {
+  background-image: url(sprite.png);
+  background-position: -742px -388px;
+  width: 76px;
+  height: 19px;
+}
+.icon-elcronista {
+  background-image: url(sprite.png);
+  background-position: -380px -729px;
+  width: 76px;
+  height: 16px;
+}
+.icon-elmercurio {
+  background-image: url(sprite.png);
+  background-position: -228px -760px;
+  width: 76px;
+  height: 6px;
+}
+.icon-elpalaciodehierro {
+  background-image: url(sprite.png);
+  background-position: -666px -450px;
+  width: 76px;
+  height: 26px;
+}
+.icon-elpatagonico {
+  background-image: url(sprite.png);
+  background-position: -608px -729px;
+  width: 76px;
+  height: 15px;
+}
+.icon-eluniversal {
+  background-image: url(sprite.png);
+  background-position: -380px -133px;
+  width: 76px;
+  height: 64px;
+}
+.icon-energyfitness {
+  background-image: url(sprite.png);
+  background-position: -666px -88px;
+  width: 76px;
+  height: 29px;
+}
+.icon-etiquetanegra {
+  background-image: url(sprite.png);
+  background-position: -380px -550px;
+  width: 76px;
+  height: 38px;
+}
+.icon-falabella {
+  background-image: url(sprite.png);
+  background-position: -532px -550px;
+  width: 76px;
+  height: 36px;
+}
+.icon-fanstudio {
+  background-image: url(sprite.png);
+  background-position: -742px -464px;
+  width: 76px;
+  height: 19px;
+}
+.icon-fedex {
+  background-image: url(sprite.png);
+  background-position: -742px 0px;
+  width: 76px;
+  height: 21px;
+}
+.icon-fiat {
+  background-image: url(sprite.png);
+  background-position: -304px -75px;
+  width: 76px;
+  height: 74px;
+}
+.icon-flock {
+  background-image: url(sprite.png);
+  background-position: 0px -152px;
+  width: 76px;
+  height: 76px;
+}
+.icon-folhadespaulo {
+  background-image: url(sprite.png);
+  background-position: -152px -745px;
+  width: 76px;
+  height: 14px;
+}
+.icon-fullticket {
+  background-image: url(sprite.png);
+  background-position: -666px -175px;
+  width: 76px;
+  height: 28px;
+}
+.icon-futbolcentroamerica {
+  background-image: url(sprite.png);
+  background-position: -742px -229px;
+  width: 76px;
+  height: 20px;
+}
+.icon-futbolsites {
+  background-image: url(sprite.png);
+  background-position: -742px -609px;
+  width: 76px;
+  height: 18px;
+}
+.icon-futbolsites2 {
+  background-image: url(sprite.png);
+  background-position: -742px -519px;
+  width: 76px;
+  height: 18px;
+}
+.icon-futbolsites3 {
+  background-image: url(sprite.png);
+  background-position: -742px -555px;
+  width: 76px;
+  height: 18px;
+}
+.icon-futboltotal {
+  background-image: url(sprite.png);
+  background-position: -532px -707px;
+  width: 76px;
+  height: 21px;
+}
+.icon-galicia {
+  background-image: url(sprite.png);
+  background-position: -666px -528px;
+  width: 76px;
+  height: 26px;
+}
+.icon-gazeta {
+  background-image: url(sprite.png);
+  background-position: -380px -625px;
+  width: 76px;
+  height: 31px;
+}
+.icon-globalmind {
+  background-image: url(sprite.png);
+  background-position: -742px -483px;
+  width: 76px;
+  height: 18px;
+}
+.icon-graespecial {
+  background-image: url(sprite.png);
+  background-position: -152px -550px;
+  width: 76px;
+  height: 39px;
+}
+.icon-grimoldi {
+  background-image: url(sprite.png);
+  background-position: -590px -177px;
+  width: 76px;
+  height: 43px;
+}
+.icon-groupm {
+  background-image: url(sprite.png);
+  background-position: 0px -500px;
+  width: 76px;
+  height: 50px;
+}
+.icon-grupolarepublica {
+  background-image: url(sprite.png);
+  background-position: -666px -502px;
+  width: 76px;
+  height: 26px;
+}
+.icon-grupomedios {
+  background-image: url(sprite.png);
+  background-position: -742px -21px;
+  width: 76px;
+  height: 21px;
+}
+.icon-gruponzn {
+  background-image: url(sprite.png);
+  background-position: -666px -259px;
+  width: 76px;
+  height: 28px;
+}
+.icon-grupopazos {
+  background-image: url(sprite.png);
+  background-position: -590px -305px;
+  width: 76px;
+  height: 42px;
+}
+.icon-gruporbs {
+  background-image: url(sprite.png);
+  background-position: -742px -329px;
+  width: 76px;
+  height: 20px;
+}
+.icon-gruporpp {
+  background-image: url(sprite.png);
+  background-position: -532px -683px;
+  width: 76px;
+  height: 23px;
+}
+.icon-guialocal {
+  background-image: url(sprite.png);
+  background-position: -76px -550px;
+  width: 76px;
+  height: 39px;
+}
+.icon-gurpoexpansion {
+  background-image: url(sprite.png);
+  background-position: -228px -380px;
+  width: 76px;
+  height: 59px;
+}
+.icon-havasmedia {
+  background-image: url(sprite.png);
+  background-position: -590px -347px;
+  width: 76px;
+  height: 41px;
+}
+.icon-hibu {
+  background-image: url(sprite.png);
+  background-position: -456px -625px;
+  width: 76px;
+  height: 30px;
+}
+.icon-honda {
+  background-image: url(sprite.png);
+  background-position: -152px -380px;
+  width: 76px;
+  height: 60px;
+}
+.icon-huawei {
+  background-image: url(sprite.png);
+  background-position: -152px -228px;
+  width: 76px;
+  height: 76px;
+}
+.icon-iasa {
+  background-image: url(sprite.png);
+  background-position: 0px -658px;
+  width: 76px;
+  height: 25px;
+}
+.icon-ig {
+  background-image: url(sprite.png);
+  background-position: -228px -442px;
+  width: 76px;
+  height: 55px;
+}
+.icon-ims {
+  background-image: url(sprite.png);
+  background-position: -304px -225px;
+  width: 76px;
+  height: 71px;
+}
+.icon-inbev {
+  background-image: url(sprite.png);
+  background-position: -742px -189px;
+  width: 76px;
+  height: 20px;
+}
+.icon-indalo {
+  background-image: url(sprite.png);
+  background-position: -590px -220px;
+  width: 76px;
+  height: 43px;
+}
+.icon-informador {
+  background-image: url(sprite.png);
+  background-position: -275px -372px;
+  width: 76px;
+  height: 7px;
+}
+.icon-infotechnologycom {
+  background-image: url(sprite.png);
+  background-position: -76px -760px;
+  width: 76px;
+  height: 10px;
+}
+.icon-initiative {
+  background-image: url(sprite.png);
+  background-position: 0px -729px;
+  width: 76px;
+  height: 16px;
+}
+.icon-inmuebles {
+  background-image: url(sprite.png);
+  background-position: -152px -683px;
+  width: 76px;
+  height: 24px;
+}
+.icon-innovationmedia {
+  background-image: url(sprite.png);
+  background-position: -304px -658px;
+  width: 76px;
+  height: 24px;
+}
+.icon-iprospect {
+  background-image: url(sprite.png);
+  background-position: -742px -63px;
+  width: 76px;
+  height: 21px;
+}
+.icon-jornaldebrasilia {
+  background-image: url(sprite.png);
+  background-position: -590px -388px;
+  width: 76px;
+  height: 41px;
+}
+.icon-laPaginaMillonaria {
+  background-image: url(sprite.png);
+  background-position: -590px -45px;
+  width: 76px;
+  height: 45px;
+}
+.icon-lanacion {
+  background-image: url(sprite.png);
+  background-position: -742px -696px;
+  width: 76px;
+  height: 16px;
+}
+.icon-laseleccionmexico {
+  background-image: url(sprite.png);
+  background-position: -304px -745px;
+  width: 76px;
+  height: 14px;
+}
+.icon-lazona {
+  background-image: url(sprite.png);
+  background-position: -514px -54px;
+  width: 76px;
+  height: 54px;
+}
+.icon-lenovo {
+  background-image: url(sprite.png);
+  background-position: -684px -745px;
+  width: 76px;
+  height: 12px;
+}
+.icon-lexus {
+  background-image: url(sprite.png);
+  background-position: -514px -318px;
+  width: 76px;
+  height: 51px;
+}
+.icon-lg {
+  background-image: url(sprite.png);
+  background-position: 0px -589px;
+  width: 76px;
+  height: 36px;
+}
+.icon-linio {
+  background-image: url(sprite.png);
+  background-position: -532px -589px;
+  width: 76px;
+  height: 33px;
+}
+.icon-liverpoolmexico {
+  background-image: url(sprite.png);
+  background-position: -666px -476px;
+  width: 76px;
+  height: 26px;
+}
+.icon-mcann {
+  background-image: url(sprite.png);
+  background-position: -742px -126px;
+  width: 76px;
+  height: 21px;
+}
+.icon-mcdonalds {
+  background-image: url(sprite.png);
+  background-position: -76px -380px;
+  width: 76px;
+  height: 61px;
+}
+.icon-mec {
+  background-image: url(sprite.png);
+  background-position: -304px -149px;
+  width: 74px;
+  height: 76px;
+}
+.icon-mediacom {
+  background-image: url(sprite.png);
+  background-position: 0px -760px;
+  width: 76px;
+  height: 11px;
+}
+.icon-mediatik {
+  background-image: url(sprite.png);
+  background-position: -742px -679px;
+  width: 76px;
+  height: 17px;
+}
+.icon-mediavest {
+  background-image: url(sprite.png);
+  background-position: -304px -500px;
+  width: 76px;
+  height: 47px;
+}
+.icon-mediotiempo {
+  background-image: url(sprite.png);
+  background-position: -666px -604px;
+  width: 76px;
+  height: 25px;
+}
+.icon-megacurioso {
+  background-image: url(sprite.png);
+  background-position: -76px -625px;
+  width: 76px;
+  height: 32px;
+}
+.icon-merck {
+  background-image: url(sprite.png);
+  background-position: -228px -658px;
+  width: 76px;
+  height: 24px;
+}
+.icon-meupet {
+  background-image: url(sprite.png);
+  background-position: -380px -442px;
+  width: 76px;
+  height: 54px;
+}
+.icon-microsoft {
+  background-image: url(sprite.png);
+  background-position: -666px -231px;
+  width: 76px;
+  height: 28px;
+}
+.icon-mindshare {
+  background-image: url(sprite.png);
+  background-position: -608px -707px;
+  width: 76px;
+  height: 21px;
+}
+.icon-ministeriodeplanificacion {
+  background-image: url(sprite.png);
+  background-position: -456px -589px;
+  width: 76px;
+  height: 33px;
+}
+.icon-minuto1 {
+  background-image: url(sprite.png);
+  background-position: -228px 0px;
+  width: 76px;
+  height: 76px;
+}
+.icon-mondelez {
+  background-image: url(sprite.png);
+  background-position: -76px -707px;
+  width: 76px;
+  height: 22px;
+}
+.icon-movistar {
+  background-image: url(sprite.png);
+  background-position: -76px 0px;
+  width: 76px;
+  height: 76px;
+}
+.icon-musimundo {
+  background-image: url(sprite.png);
+  background-position: -152px -152px;
+  width: 76px;
+  height: 76px;
+}
+.icon-navent {
+  background-image: url(sprite.png);
+  background-position: -304px -589px;
+  width: 76px;
+  height: 35px;
+}
+.icon-nextel {
+  background-image: url(sprite.png);
+  background-position: -742px -209px;
+  width: 76px;
+  height: 20px;
+}
+.icon-nivoria {
+  background-image: url(sprite.png);
+  background-position: -380px -683px;
+  width: 76px;
+  height: 23px;
+}
+.icon-nokia {
+  background-image: url(sprite.png);
+  background-position: -684px -729px;
+  width: 76px;
+  height: 15px;
+}
+.icon-notmusa {
+  background-image: url(sprite.png);
+  background-position: -666px -30px;
+  width: 76px;
+  height: 29px;
+}
+.icon-nupcias {
+  background-image: url(sprite.png);
+  background-position: -742px -309px;
+  width: 76px;
+  height: 20px;
+}
+.icon-occmundial {
+  background-image: url(sprite.png);
+  background-position: -742px -712px;
+  width: 76px;
+  height: 16px;
+}
+.icon-ohlala {
+  background-image: url(sprite.png);
+  background-position: -742px -369px;
+  width: 76px;
+  height: 19px;
+}
+.icon-ojoperu {
+  background-image: url(sprite.png);
+  background-position: -590px -90px;
+  width: 76px;
+  height: 44px;
+}
+.icon-omd {
+  background-image: url(sprite.png);
+  background-position: -456px -500px;
+  width: 76px;
+  height: 45px;
+}
+.icon-oxigeno {
+  background-image: url(sprite.png);
+  background-position: -742px -105px;
+  width: 76px;
+  height: 21px;
+}
+.icon-paginasamarillas {
+  background-image: url(sprite.png);
+  background-position: -742px -645px;
+  width: 76px;
+  height: 17px;
+}
+.icon-paramountpictures {
+  background-image: url(sprite.png);
+  background-position: 0px -380px;
+  width: 76px;
+  height: 62px;
+}
+.icon-parati {
+  background-image: url(sprite.png);
+  background-position: -304px -683px;
+  width: 76px;
+  height: 23px;
+}
+.icon-pdh {
+  background-image: url(sprite.png);
+  background-position: -304px -550px;
+  width: 76px;
+  height: 39px;
+}
+.icon-pepsi {
+  background-image: url(sprite.png);
+  background-position: -666px -369px;
+  width: 76px;
+  height: 27px;
+}
+.icon-personal {
+  background-image: url(sprite.png);
+  background-position: -666px -203px;
+  width: 76px;
+  height: 28px;
+}
+.icon-peugeot {
+  background-image: url(sprite.png);
+  background-position: -514px 0px;
+  width: 76px;
+  height: 54px;
+}
+.icon-plataforma10 {
+  background-image: url(sprite.png);
+  background-position: -304px 0px;
+  width: 76px;
+  height: 75px;
+}
+.icon-plateanet {
+  background-image: url(sprite.png);
+  background-position: -666px -396px;
+  width: 76px;
+  height: 27px;
+}
+.icon-polvora {
+  background-image: url(sprite.png);
+  background-position: -608px -683px;
+  width: 76px;
+  height: 22px;
+}
+.icon-portalterra {
+  background-image: url(sprite.png);
+  background-position: -139px -304px;
+  width: 68px;
+  height: 76px;
+}
+.icon-portalterra2 {
+  background-image: url(sprite.png);
+  background-position: -207px -304px;
+  width: 68px;
+  height: 76px;
+}
+.icon-prensmart {
+  background-image: url(sprite.png);
+  background-position: 0px -707px;
+  width: 76px;
+  height: 22px;
+}
+.icon-prontoar {
+  background-image: url(sprite.png);
+  background-position: -228px -745px;
+  width: 76px;
+  height: 14px;
+}
+.icon-publimetro {
+  background-image: url(sprite.png);
+  background-position: 0px -683px;
+  width: 76px;
+  height: 24px;
+}
+.icon-pyg {
+  background-image: url(sprite.png);
+  background-position: -380px -589px;
+  width: 76px;
+  height: 35px;
+}
+.icon-quiroga {
+  background-image: url(sprite.png);
+  background-position: -456px -707px;
+  width: 76px;
+  height: 21px;
+}
+.icon-r71 {
+  background-image: url(sprite.png);
+  background-position: -380px -67px;
+  width: 76px;
+  height: 66px;
+}
+.icon-radiocorazon {
+  background-image: url(sprite.png);
+  background-position: -76px -745px;
+  width: 76px;
+  height: 15px;
+}
+.icon-records {
+  background-image: url(sprite.png);
+  background-position: -666px -579px;
+  width: 76px;
+  height: 25px;
+}
+.icon-revistaviva {
+  background-image: url(sprite.png);
+  background-position: -514px -471px;
+  width: 76px;
+  height: 25px;
+}
+.icon-rionegro {
+  background-image: url(sprite.png);
+  background-position: -742px -349px;
+  width: 76px;
+  height: 20px;
+}
+.icon-rpp {
+  background-image: url(sprite.png);
+  background-position: 0px -228px;
+  width: 76px;
+  height: 76px;
+}
+.icon-samsung {
+  background-image: url(sprite.png);
+  background-position: -666px -629px;
+  width: 76px;
+  height: 25px;
+}
+.icon-schneider {
+  background-image: url(sprite.png);
+  background-position: -380px -323px;
+  width: 76px;
+  height: 57px;
+}
+.icon-sol {
+  background-image: url(sprite.png);
+  background-position: -380px -197px;
+  width: 76px;
+  height: 64px;
+}
+.icon-sonypictures {
+  background-image: url(sprite.png);
+  background-position: -456px 0px;
+  width: 58px;
+  height: 76px;
+}
+.icon-sonytv {
+  background-image: url(sprite.png);
+  background-position: -380px -261px;
+  width: 76px;
+  height: 62px;
+}
+.icon-starcom {
+  background-image: url(sprite.png);
+  background-position: -666px -146px;
+  width: 76px;
+  height: 29px;
+}
+.icon-superboletos {
+  background-image: url(sprite.png);
+  background-position: -666px -287px;
+  width: 76px;
+  height: 28px;
+}
+.icon-superlutas {
+  background-image: url(sprite.png);
+  background-position: -228px -707px;
+  width: 76px;
+  height: 22px;
+}
+.icon-supermujer {
+  background-image: url(sprite.png);
+  background-position: -608px -658px;
+  width: 76px;
+  height: 24px;
+}
+.icon-supervielle {
+  background-image: url(sprite.png);
+  background-position: -76px -589px;
+  width: 76px;
+  height: 36px;
+}
+.icon-tbs {
+  background-image: url(sprite.png);
+  background-position: 0px -304px;
+  width: 70px;
+  height: 76px;
+}
+.icon-td1 {
+  background-image: url(sprite.png);
+  background-position: -666px -342px;
+  width: 76px;
+  height: 27px;
+}
+.icon-tecmundo {
+  background-image: url(sprite.png);
+  background-position: -742px -627px;
+  width: 76px;
+  height: 18px;
+}
+.icon-tedx {
+  background-image: url(sprite.png);
+  background-position: -666px -554px;
+  width: 76px;
+  height: 25px;
+}
+.icon-televisa {
+  background-image: url(sprite.png);
+  background-position: -304px -380px;
+  width: 76px;
+  height: 59px;
+}
+.icon-terra {
+  background-image: url(sprite.png);
+  background-position: -514px -108px;
+  width: 76px;
+  height: 54px;
+}
+.icon-terra2 {
+  background-image: url(sprite.png);
+  background-position: -304px -442px;
+  width: 76px;
+  height: 54px;
+}
+.icon-ticketportal {
+  background-image: url(sprite.png);
+  background-position: 0px -625px;
+  width: 76px;
+  height: 33px;
+}
+.icon-todateen {
+  background-image: url(sprite.png);
+  background-position: -742px -289px;
+  width: 76px;
+  height: 20px;
+}
+.icon-toyota {
+  background-image: url(sprite.png);
+  background-position: -514px -420px;
+  width: 76px;
+  height: 51px;
+}
+.icon-tuenti {
+  background-image: url(sprite.png);
+  background-position: -456px -683px;
+  width: 76px;
+  height: 23px;
+}
+.icon-tvnotas {
+  background-image: url(sprite.png);
+  background-position: -742px -445px;
+  width: 76px;
+  height: 19px;
+}
+.icon-unilever {
+  background-image: url(sprite.png);
+  background-position: -70px -304px;
+  width: 69px;
+  height: 76px;
+}
+.icon-universal {
+  background-image: url(sprite.png);
+  background-position: -152px -589px;
+  width: 76px;
+  height: 36px;
+}
+.icon-universalmccann {
+  background-image: url(sprite.png);
+  background-position: -76px -152px;
+  width: 76px;
+  height: 76px;
+}
+.icon-unomedios {
+  background-image: url(sprite.png);
+  background-position: -590px -429px;
+  width: 41px;
+  height: 76px;
+}
+.icon-uol {
+  background-image: url(sprite.png);
+  background-position: -152px -76px;
+  width: 76px;
+  height: 76px;
+}
+.icon-veintitantos {
+  background-image: url(sprite.png);
+  background-position: 0px -745px;
+  width: 76px;
+  height: 15px;
+}
+.icon-viarosario {
+  background-image: url(sprite.png);
+  background-position: -76px -76px;
+  width: 76px;
+  height: 76px;
+}
+.icon-vizeum {
+  background-image: url(sprite.png);
+  background-position: -742px -591px;
+  width: 76px;
+  height: 18px;
+}
+.icon-volkswagen {
+  background-image: url(sprite.png);
+  background-position: 0px -76px;
+  width: 76px;
+  height: 76px;
+}
+.icon-vuenoz {
+  background-image: url(sprite.png);
+  background-position: -742px -249px;
+  width: 76px;
+  height: 20px;
+}
+.icon-warner {
+  background-image: url(sprite.png);
+  background-position: -275px -304px;
+  width: 76px;
+  height: 68px;
+}
+.icon-williamhill {
+  background-image: url(sprite.png);
+  background-position: -666px 0px;
+  width: 76px;
+  height: 30px;
+}
+.icon-zenithoptimedia {
+  background-image: url(sprite.png);
+  background-position: -380px -707px;
+  width: 76px;
+  height: 22px;
+}
+
+@media (-webkit-min-device-pixel-ratio: 2),
+       (min-resolution: 192dpi) {
+  .icon-15a20commx {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-15a20commx2 {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-20thcenturyfox {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-Bimbo {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-ELBOCON {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-Forward {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-Imperial {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-LaMananaNeuquen {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-Lan {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-Laseleccion {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-LosAndes {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-Primiciasya {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-Ribeiro {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-Turner {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-administradores {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-agavis {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-apertura {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-arabela {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-arema {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-argim {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-atrevida {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-atribuna {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-avantrip {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-axeso5 {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-baixaki {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-bancohipotecario {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-basso-brovelli {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-bbva {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-betazeta {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-blinker {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-bolavip {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-brando {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-burgerking {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-canon {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-capital {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-carat {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-cetrogar {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-chevrolet {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-chilangocom {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-chilis {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-cinemark {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-cinepremiere {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-claro {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-clickjogos {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-clubdecorredores {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-cmi {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-cmtv {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-cnnexpansion {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-cocacola {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-colgate {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-compreingresos {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-contabeis {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-copesa {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-cordobavende {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-corpo {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-correoperu {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-corsa {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-cronica {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-deperu {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-despegar {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-diariouno {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-diarioveloz {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-dietaja {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-directv {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-disney {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-dominospizza {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-editatlantida {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-elcomercio {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-elcronista {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-elmercurio {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-elpalaciodehierro {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-elpatagonico {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-eluniversal {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-energyfitness {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-etiquetanegra {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-falabella {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-fanstudio {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-fedex {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-fiat {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-flock {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-folhadespaulo {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-fullticket {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-futbolcentroamerica {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-futbolsites {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-futbolsites2 {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-futbolsites3 {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-futboltotal {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-galicia {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-gazeta {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-globalmind {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-graespecial {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-grimoldi {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-groupm {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-grupolarepublica {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-grupomedios {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-gruponzn {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-grupopazos {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-gruporbs {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-gruporpp {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-guialocal {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-gurpoexpansion {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-havasmedia {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-hibu {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-honda {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-huawei {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-iasa {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-ig {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-ims {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-inbev {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-indalo {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-informador {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-infotechnologycom {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-initiative {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-inmuebles {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-innovationmedia {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-iprospect {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-jornaldebrasilia {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-laPaginaMillonaria {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-lanacion {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-laseleccionmexico {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-lazona {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-lenovo {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-lexus {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-lg {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-linio {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-liverpoolmexico {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-mcann {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-mcdonalds {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-mec {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-mediacom {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-mediatik {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-mediavest {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-mediotiempo {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-megacurioso {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-merck {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-meupet {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-microsoft {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-mindshare {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-ministeriodeplanificacion {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-minuto1 {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-mondelez {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-movistar {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-musimundo {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-navent {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-nextel {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-nivoria {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-nokia {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-notmusa {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-nupcias {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-occmundial {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-ohlala {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-ojoperu {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-omd {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-oxigeno {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-paginasamarillas {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-paramountpictures {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-parati {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-pdh {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-pepsi {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-personal {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-peugeot {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-plataforma10 {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-plateanet {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-polvora {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-portalterra {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-portalterra2 {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-prensmart {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-prontoar {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-publimetro {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-pyg {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-quiroga {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-r71 {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-radiocorazon {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-records {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-revistaviva {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-rionegro {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-rpp {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-samsung {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-schneider {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-sol {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-sonypictures {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-sonytv {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-starcom {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-superboletos {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-superlutas {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-supermujer {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-supervielle {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-tbs {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-td1 {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-tecmundo {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-tedx {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-televisa {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-terra {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-terra2 {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-ticketportal {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-todateen {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-toyota {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-tuenti {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-tvnotas {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-unilever {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-universal {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-universalmccann {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-unomedios {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-uol {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-veintitantos {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-viarosario {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-vizeum {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-volkswagen {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-vuenoz {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-warner {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-williamhill {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+  .icon-zenithoptimedia {
+    background-image: url(sprite%402x.png);
+    background-size: 818px 771px;
+  }
+}
